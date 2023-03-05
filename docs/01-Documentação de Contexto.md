@@ -1,46 +1,22 @@
-# Introdução
+## Visão geral do projeto
+Será desenvolvida uma aplicação móvel de To-Do List que será um aplicativo para dispositivos móveis que permitirá que o usuário organize suas tarefas de maneira eficiente. O usuário poderá criar várias tarefas, que podem ser 
+marcadas como concluídas. A aplicação também permitirá que o usuário edite, exclua ou adicione novas tarefas em suas listas.
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+
+## Contexto
+Com a correria do dia-a-dia e a crescente demanda por produtividade e organização, é comum que muitas pessoas se sintam sobrecarregadas com a quantidade de atividades a serem realizadas. A  nossa aplicação móvel  vem para solucionar essa demanda, oferecendo uma ferramenta simples e eficiente para ajudar as pessoas a se organizarem.Com a nossa aplicação o usuário vai poder ir marcando suas tarefas como concluídas facilitando o gerenciamento de seu tempo e aumentando sua produtividade.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Um dos maiores problemas enfrentados pelas pessoas atualmente é a dificuldade em organizar suas tarefas e atividades diárias de maneira rápida e eficiente. Muitas vezes as tarefas se acumulam e a pessoa não sabe nem por onde começar, o que pode gerar ansiedade, estresse, procrastinação o que acaba gerando improdutividade.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+O objetivo principal do projeto é desenvolver uma aplicação móvel que permita aos usuários criar e concluir tarefas de maneira simples e eficiente. Além disso, a aplicação móvel deve ter uma interface amigável e intuitiva, de modo que qualquer pessoa possa utilizá-la sem dificuldades.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
+A justificativa para o desenvolvimento desta aplicação móvel é a necessidade que muitas pessoas têm de gerenciar suas tarefas de maneira eficiente. Com o aumento da demanda por produtividade, organização e gestão de tempo, a aplicação móvel que será chamada de Lembree 2.0 será uma ferramenta essencial para quem busca se organizar e ser mais produtivo. Além disso, com o crescente aumento do uso de dispositivos móveis para atividades cotidianas, o Lembree 2.0 pode ser uma ferramenta valiosa para gerenciar tarefas de qualquer lugar e a qualquer momento.
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
-## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+## Público-alvo
+O Lembree 2.0 é direcionado para todas as pessoas que buscam uma ferramenta simples e eficiente para gerenciar suas tarefas diárias. Isso inclui estudantes, profissionais, empreendedores, donas de casa e qualquer outra pessoa que precise se organizar melhor e aumentar sua produtividade. Além disso, a aplicação também pode ser útil para pessoas que têm dificuldades em lembrar de suas tarefas e compromissos, bem como para aqueles que buscam uma forma de gerenciar projetos e atividades em equipe. A aplicação pode ser utilizada por pessoas de todas as idades e níveis de conhecimento em tecnologia, uma vez que sua interface será intuitiva e de fácil utilização.
