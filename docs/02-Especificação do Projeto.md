@@ -61,7 +61,6 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 | RNF-003 | O orçamento disponível para o projeto é 210 reais                                                     | MÉDIA |
 
 # DIAGRAMA DE CASOS DE USO
-# COLOCA A IMAGEM AQUI
 
 
 <img src="/src/IMG/Capturar.PNG">
@@ -75,7 +74,6 @@ A matriz de rastreabilidade é uma ferramenta utilizada para facilitar a visuali
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
 # GERENCIAMENTO DE TEMPO
-# COLOCA A IMAGEM AQUI
 
 <img src="../src/IMG/gestaoTempo.jpeg">
 
