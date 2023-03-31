@@ -12,6 +12,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Arthur Emanoel Coelho de Paula
 * Khaio Henrique de Oliveira Camargos
+* Guilherme de Sousa Araujo
+* Ana Carolina Silva Mendes
 
 ## Orientador
 
