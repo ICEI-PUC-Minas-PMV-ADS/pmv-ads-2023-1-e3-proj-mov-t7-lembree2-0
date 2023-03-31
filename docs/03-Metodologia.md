@@ -7,8 +7,15 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito, conforme tabela a seguir:
+
+|                   Ambiente                  |     Plataforma     |
+|:-------------------------------------------:|:------------------:|
+| Repositório de código fonte                 | GitHub             |
+| Projeto de Interface e Wireframes           | Figma              |
+| Gerenciamento do Projeto                    | GitHub             |
+| Ambiente de Desenvolvimento Integrado (IDE) | Visual Studio Code |
+| Tecnologias para Comunicação                | Teams e Whatsapp   |
 
 ## Controle de Versão
 
