@@ -1,10 +1,13 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+| Requisito | Descrição | Artefatos Criados | Estruturas de Dados | Instruções |
+|---|---|---|---|---|
+| RF-001 | Criar uma nova tarefa. | Código fonte | Banco de Dados | Para criar uma nova tarefa, acesse a página inicial do sistema e clique no botão "Nova Tarefa". Preencha os campos obrigatórios e clique em "Salvar". |
+| RF-002 | Concluir uma tarefa. | Código fonte | Banco de Dados | Para concluir uma tarefa, acesse a página de detalhes da tarefa e marque a opção "Concluída". Clique em "Salvar" para confirmar. |
+| RF-003 | Editar uma tarefa. | Código fonte | Banco de Dados | Para editar uma tarefa, acesse a página de detalhes da tarefa e clique no botão "Editar". Faça as alterações necessárias e clique em "Salvar". |
+| RF-004 | Excluir uma tarefa. | Código fonte | Banco de Dados | Para excluir uma tarefa, acesse a página de detalhes da tarefa e clique no botão "Excluir". Confirme a exclusão e clique em "Salvar". |
+| RF-005 | Visualizar todas as tarefas em uma lista. | Código fonte | Banco de Dados | Para visualizar todas as tarefas em uma lista, acesse a página inicial do sistema e clique no botão "Todas as Tarefas". A lista será exibida na tela. |
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 > **Links Úteis**:
 >
