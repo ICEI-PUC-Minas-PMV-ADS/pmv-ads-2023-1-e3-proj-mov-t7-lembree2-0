@@ -30,7 +30,13 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t7-lembree2
 GitHub
 
 Para acessar por um telefone movél leia o qr code abaixo:
+
+
+
+
 ![Descrição da imagem](src/IMG/qrcode.jpeg)
+
+
 
 * Criar Nova Tarefa: Para criar uma nova tarefa basta adicionar o texto e clicar no botão Adiocionar Tarefa.
 * Excluir Uma Tarefa: Para excluir uma tarefa basta clicar no botão vermelho escrito Excluir.
