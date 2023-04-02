@@ -9,7 +9,7 @@ Abaixo esta algumas imagens dos Wireframes e abaixo das imagens um link para ace
 ![Descrição da imagem](../src/IMG/Frame2.png)
 ![Descrição da imagem](../src/IMG/Frame3.png)
 
-https://www.figma.com/proto/rA04tAV4z4qOTfMCyPVoNd/TDHA?node-id=1-90&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A90
+[Wireframes Interativos](https://www.figma.com/proto/rA04tAV4z4qOTfMCyPVoNd/TDHA?node-id=1-90&scaling=contain&page-id=
 
 
 
