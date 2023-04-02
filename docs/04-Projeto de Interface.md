@@ -3,7 +3,8 @@
 
 O projeto de interface para o aplicativo to-do list Lembree 2.0 será desenvolvido em React Native, com o objetivo de criar uma experiência de usuário intuitiva e semelhante ao aplicativo Lembretes do iOS. A interface será organizada em uma lista de tarefas, onde os usuários poderão adicionar, editar e excluir itens. O objetivo do projeto é fornecer uma interface fácil de usar e personalizável para ajudar os usuários a gerenciar suas tarefas diárias de maneira eficiente e eficaz.
 
-![Frame 1](../src/img/Frame1.png)
+![Descrição da imagem](../src/IMG/Frame1.png)
+
 ![Frame 2](../src/img/Frame2.png)
 ![Frame 3](../src/img/Frame3.png)
 
