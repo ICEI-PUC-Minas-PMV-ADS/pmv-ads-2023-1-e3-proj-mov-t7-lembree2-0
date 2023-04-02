@@ -24,8 +24,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 Para utilizar o app é necessario ter uma conta no Expo.com
 Para utilizar o app é necessario ter uma conta no Expo.com
 acessando pelo computador:
-1- Entre no site expo.com e crie um novo snack.
-2-  Na janela de desnevolvimento na aba esquerda ao lado do icone de adicionar nova pasta clique nos Três pontos, vá em import git repository e cole o seguinte link:
+<ol>
+ <li>Entre no site expo.com e crie um novo snack.</li>
+ <li> Na janela de desnevolvimento na aba esquerda ao lado do icone de adicionar nova pasta clique nos Três pontos, vá em import git repository e cole o seguinte link:</li>
+</ol>
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t7-lembree2-0/tree/main/src/Lembree2.0
 GitHub
 
