@@ -21,7 +21,23 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para utilizar o app é necessario ter uma conta no Expo.com
+Para utilizar o app é necessario ter uma conta no Expo.com
+acessando pelo computador:
+1- Entre no site expo.com e crie um novo snack.
+2-  Na janela de desnevolvimento na aba esquerda ao lado do icone de adicionar nova pasta clique nos Três pontos, vá em import git repository e cole o seguinte link:
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t7-lembree2-0/tree/main/src/Lembree2.0
+GitHub
+
+Para acessar por um telefone movél leia o qr code abaixo:
+
+
+
+
+* Criar Nova Tarefa: Para criar uma nova tarefa basta adicionar o texto e clicar no botão Adiocionar Tarefa.
+* Excluir Uma Tarefa: Para excluir uma tarefa basta clicar no botão vermelho escrito Excluir.
+* Editar Uma Tarefa: Para editar uma tarefa basta clicar no botão Editar, Escrever na o novo texto no mesmo lugar de adicionar uma nova tarefa e clicar em salvar.
+* Para Concluir Uma Tarefa: Para concluir uma tarefa basta clicar em cima do texto da mesma.
 
 # Documentação
 
