@@ -1,7 +1,8 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+
+Para desenvolvimento do projeto, nossa equipe fez uso de diversas plataformas que nos permitiram produzir documentos ,imagens e controlar o código. Alem de permitir  realizar futuramente a manutenção dos códigos.
 
 
 
@@ -37,7 +38,7 @@ Quanto à gerência de issues, a cada alteração realizada pelos membros do gru
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+Divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 
@@ -50,8 +51,15 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-colocar a tabela aqui!
+A Equipe utilizou o Github para acompanhar o andamento, execução de tarefas e desenvolvimento da solução.
+
+- Product Backlog: É a lista detalhada de todas as tarefas que serão feitas durante o projeto. se houver a necessidade de incorporar novas atividades ao projeto, devem ser adicionadas na lista.
+- To Do: Lista dos backlogs que serão trabalhados na sprint em curso.
+- In Progress: Lista de tarefas que estão sendo executadas no momentopela equipe.
+- Done: Lista de tarefas da sprint que já foram concluidas e estão prontas para serem entregues ao usuário.
+   
+
+
 
 
 ### Ferramentas
