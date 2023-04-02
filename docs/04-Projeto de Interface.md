@@ -1,11 +1,12 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+O projeto de interface para o aplicativo to-do list Lembree 2.0 será desenvolvido em React Native, com o objetivo de criar uma experiência de usuário intuitiva e semelhante ao aplicativo Lembretes do iOS. A interface será organizada em uma lista de tarefas, onde os usuários poderão adicionar, editar e excluir itens. O objetivo do projeto é fornecer uma interface fácil de usar e personalizável para ajudar os usuários a gerenciar suas tarefas diárias de maneira eficiente e eficaz.
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+![Frame 1](src/IMG/frame1.png)
+![Frame 2](src/IMG/frame2.png)
+![Frame 3](src/IMG/frame3.png)
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## Diagrama de Fluxo
 
