@@ -42,23 +42,14 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 | PERSONA | FUNCIONALIDADE | MOTIVO/VALOR |
 | ------- | -------------- | ------------- |
 | Pedro |  Como usuário, quero receber notificações sobre minhas tarefas, para que eu não as esqueça. | Receber notificações sobre as tarefas.| 
-
-| Marcos | Como usuário, quero compartilhar minha lista de tarefas com outras pessoas, para que possamos trabalhar juntos em projetos. | Compartilhar a lista de tarefas com outras pessoas.
-
+| Marcos| Como usuário, quero compartilhar minha lista de tarefas com outras pessoas, para que possamos trabalhar juntos em projetos. | Compartilhar a lista de tarefas com outras pessoas. |
 | Maria | Como usuário, quero marcar uma tarefa como concluída, para que eu possa acompanhar meu progresso. | Marcar tarefas como concluídas. |
-
-| Ana | Como usuário, quero definir uma data e hora para uma tarefa, para que eu possa me lembrar de realizá-la no momento certo. | Definir datas e horários para as tarefas. |
-
-| João| Como usuário, quero excluir uma tarefa da minha lista, para que eu possa remover tarefas que não são mais relevantes. | Excluir uma tarefa que não é mais relevante.
-
-| Carlos | Como usuário, quero adicionar uma nova tarefa à minha lista, para que eu possa lembrar de algo que preciso fazer. | Adicionar novas tarefas à lista.
-
-| Luísa| Como usuário, quero organizar minhas tarefas por ordem de prioridade, para que eu possa focar nas mais importantes primeiro. | Organizar as tarefas por prioridade.
-
+| Ana   | Como usuário, quero definir uma data e hora para uma tarefa, para que eu possa me lembrar de realizá-la no momento certo. | Definir datas e horários para as tarefas.|
+| João  | Como usuário, quero excluir uma tarefa da minha lista, para que eu possa remover tarefas que não são mais relevantes. | Excluir uma tarefa que não é mais relevante. |
+|Carlos  | Como usuário, quero adicionar uma nova tarefa à minha lista, para que eu possa lembrar de algo que preciso fazer. | Adicionar novas tarefas à lista. |
+| Luísa| Como usuário, quero organizar minhas tarefas por ordem de prioridade, para que eu possa focar nas mais importantes primeiro. | Organizar as tarefas por prioridade. |
 | Júlia | Como usuário, quero ter a opção de adicionar notas ou comentários em minhas tarefas, para que eu possa adicionar informações importantes. | Adicionar notas ou comentários em tarefas.
-
-| Caio | Como usuário, quero poder agrupar minhas tarefas em categorias, para que eu possa visualizá-las de maneira organizada e clara. | Agrupar tarefas em categorias.
-
+| Caio | Como usuário, quero poder agrupar minhas tarefas em categorias, para que eu possa visualizá-las de maneira organizada e clara. | Agrupar tarefas em categorias. |
 | Isabela | Como usuário, quero poder definir tarefas recorrentes, para que eu possa lembrar de realizar atividades que se repetem em um determinado período. | Definir tarefas recorrentes.| 
 
 
