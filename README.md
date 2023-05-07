@@ -1,6 +1,6 @@
-# Projeto Lembree 2.0 TODO List
+# Projeto Lembree 2.0 To-Do List
 
-O projeto consiste em criar uma ferramenta simples, porém efetiva na de gestão ágil tarefas e controle de tarefas comumente conhecido no mercado como TODO LIST.
+O projeto consiste em criar uma ferramenta simples, porém efetiva na de gestão ágil tarefas e controle de tarefas comumente conhecido no mercado como To-do LIST.
 
 ## Integrantes
 
