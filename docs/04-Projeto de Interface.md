@@ -3,41 +3,32 @@
 
 O projeto de interface para o aplicativo to-do list Lembree 2.0 será desenvolvido em React Native, com o objetivo de criar uma experiência de usuário intuitiva e semelhante ao aplicativo Lembretes do iOS. A interface será organizada em uma lista de tarefas, onde os usuários poderão adicionar, editar e excluir itens. O objetivo do projeto é fornecer uma interface fácil de usar e personalizável para ajudar os usuários a gerenciar suas tarefas diárias de maneira eficiente e eficaz.
 
-Abaixo esta algumas imagens dos Wireframes e abaixo das imagens um link para acessar os WireFrames de forma interativa no Figma.
+Abaixo o protótipo da interface:
 
-![Descrição da imagem](../src/IMG/Frame1.png)
-![Descrição da imagem](../src/IMG/Frame2.png)
-![Descrição da imagem](../src/IMG/Frame3.png)
+![image](https://user-images.githubusercontent.com/96726225/236698030-9cf08877-2be0-4bbd-9b56-0691fbad2b5d.png)
 
-[Wireframes Interativos](https://www.figma.com/proto/rA04tAV4z4qOTfMCyPVoNd/TDHA?node-id=1-90&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A90)
+![image](https://user-images.githubusercontent.com/96726225/236698129-86cffff6-b637-484b-9098-3e7cac87d831.png)
+
+![image](https://user-images.githubusercontent.com/96726225/236698161-d20f63b3-e802-4475-a7cf-94faa5ede19d.png)
+
+![image](https://user-images.githubusercontent.com/96726225/236698211-0549966c-befb-41a7-99e9-457343ceebf4.png)
+
+![image](https://user-images.githubusercontent.com/96726225/236698244-7555d196-23ed-4c02-8533-9637c21a04c9.png)
 
 
+[Interface]([https://www.figma.com/proto/rA04tAV4z4qOTfMCyPVoNd/TDHA?node-id=1-90&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A90](https://www.figma.com/file/ePcCt3EJQaO5UGVxOnHM5K/Todo-list?type=design&node-id=15%3A217&t=JnPpZhp3e1jh8qqS-1))
 
 
-## Diagrama de Fluxo
+## Diagrama de Fluxo e Jornada do usuário
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+O diagrama de fluxo e a Jornada do usuário foram simplicifados para que a tela inicial do aplicativo tenha um poder de decisão no fluxo geral do app, confira o fluxo abaixo:
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+![image](https://user-images.githubusercontent.com/96726225/236699923-1a82eeaf-372b-435a-9e6e-732199a860ef.png)
 
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+### Jornada do usuário
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
+Abaixo foram colocadas algumas setas indicando jornada do usuário:
 
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
+![image](https://user-images.githubusercontent.com/96726225/236700035-e6ef1cbc-8141-4148-97b8-b9ea4a6f3e07.png)
 
-## Wireframes
-
-![Exemplo de Wireframe](img/wireframe-example.png)
-
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+<a href="https://www.figma.com/file/ePcCt3EJQaO5UGVxOnHM5K/Todo-list?type=design&node-id=36%3A25&t=JnPpZhp3e1jh8qqS-1">Confira o arquivo em alta resolução no figma</a>
