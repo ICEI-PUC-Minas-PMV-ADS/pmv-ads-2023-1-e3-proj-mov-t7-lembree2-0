@@ -58,7 +58,7 @@ A Equipe utilizou o Github para acompanhar o andamento, execução de tarefas e 
 - In Progress: Lista de tarefas que estão sendo executadas no momentopela equipe.
 - Done: Lista de tarefas da sprint que já foram concluidas e estão prontas para serem entregues ao usuário.
 
-<img src="../src/IMG/gerenciamentodoprojeto.jpeg">
+<img src="../src/IMG/gerenciamentodoprojeto.jpg">
 
 
 
