@@ -2,6 +2,9 @@
 
 Será desenvolvida uma aplicação móvel de To-Do List que será um aplicativo para dispositivos móveis que permitirá que o usuário organize suas tarefas de maneira eficiente. O usuário poderá criar várias tarefas, que podem ser marcadas como concluídas. A aplicação também permitirá que o usuário edite, exclua ou adicione novas tarefas em suas listas.
 
+
+<a href="https://docs.google.com/presentation/d/1joJRuB7Mzzb1LoXKHYsd68oLAsFL0E01UeCZ5JdZq-o/edit#slide=id.SLIDES_API2054197452_0"> Apresentação </a>
+
 ## Título do Projeto
 
 Lembre 2.0 - Um aplicativo móvel de lista de tarefas pendentes
@@ -9,7 +12,7 @@ Lembre 2.0 - Um aplicativo móvel de lista de tarefas pendentes
 
 ## Identidade Visual (Marca, Design)
 
-o aplicativo to-do list Lembree 2.0 será desenvolvido em React Native, com o objetivo de criar uma experiência de usuário intuitiva e semelhante ao aplicativo Lembretes do iOS. A interface será organizada em uma lista de tarefas, onde os usuários poderão adicionar, editar e excluir itens. O objetivo do projeto é fornecer uma interface fácil de usar e personalizável para ajudar os usuários a gerenciar suas tarefas diárias de maneira eficiente e eficaz.
+O aplicativo to-do list Lembree 2.0 será desenvolvido em React Native, com o objetivo de criar uma experiência de usuário intuitiva e semelhante ao aplicativo Lembretes do iOS. A interface será organizada em uma lista de tarefas, onde os usuários poderão adicionar, editar e excluir itens. O objetivo do projeto é fornecer uma interface fácil de usar e personalizável para ajudar os usuários a gerenciar suas tarefas diárias de maneira eficiente e eficaz.
 
 Abaixo o protótipo da interface:
 
