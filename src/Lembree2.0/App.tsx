@@ -1,10 +1,11 @@
 import { View } from "react-native";
-import WelcomeScreen from "./src/screens/welcome/WelcomeScreen";
+import UserEditScreen from "./src/screens/user/UserEditScreen";
+import TeamScreen from "./src/screens/team/TeamScreen";
 
 export default function App() {
   return (
     <View style={{ flex: 1 }}>
-      <WelcomeScreen />
+      <TeamScreen />
     </View>
   );
 }
