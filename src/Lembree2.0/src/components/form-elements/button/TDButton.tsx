@@ -1,7 +1,7 @@
-import { IconDefinition } from '@fortawesome/fontawesome-svg-core';
-import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome';
-import { Pressable, Text, TextStyle, ViewStyle } from 'react-native';
-import buttonStyles from './td.button.style';
+import { IconDefinition } from "@fortawesome/fontawesome-svg-core";
+import { FontAwesomeIcon } from "@fortawesome/react-native-fontawesome";
+import { Pressable, Text, TextStyle, ViewStyle } from "react-native";
+import buttonStyles from "./td.button.style";
 
 interface ITDButtonProps {
   text?: string;
