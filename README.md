@@ -23,7 +23,7 @@ Para utilizar o app é necessario ter uma conta no https://expo.dev acessando pe
  <li>Entre no site https://snack.expo.dev/.</li>
  <li> 
   Na janela de desenvolvimento na aba esquerda ao lado do icone de adicionar nova pasta clique nos Três pontos, vá em *import git repository* e cole o seguinte link deste projeto:
-  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t7-lembree2-0/tree/main/src/Lembree2.0
+ [ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t7-lembree2-0/tree/main/src/Lembree2.0](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t7-lembree2-0/tree/main/src/Lembree2.0)
   
   ![image](https://user-images.githubusercontent.com/96726225/236694890-35101b23-4787-4545-98ae-54e15528366b.png)
  </li>
