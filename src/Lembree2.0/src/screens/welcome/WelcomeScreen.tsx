@@ -1,17 +1,17 @@
-import { StatusBar } from 'expo-status-bar';
-import { Image, ImageBackground, Text, View, ViewStyle } from 'react-native';
+import { StatusBar } from "expo-status-bar";
+import { Image, ImageBackground, Text, View, ViewStyle } from "react-native";
 
-import bg from '../assets/bg-app-welcome.png';
-import task from '../assets/task-draw.png';
-import logo from '../assets/todo-logo.png';
+import bg from "../assets/bg-app-welcome.png";
+import task from "../assets/task-draw.png";
+import logo from "../assets/todo-logo.png";
 
-import welcomeStyles from './welcome.style';
-import { faCircleArrowRight } from '@fortawesome/free-solid-svg-icons';
-import TDButton from '../../components/form-elements/button/TDButton';
+import welcomeStyles from "./welcome.style";
+import { faCircleArrowRight } from "@fortawesome/free-solid-svg-icons";
+import TDButton from "../../components/form-elements/button/TDButton";
 
-function WelcomeScreen() {
+function WelcomeScreen({ navigation }: { navigation: any }): JSX.Element {
   const handleOnClick = () => {
-    alert('Hello!');
+    navigation.navigate("UserEdit");
   };
 
   return (
@@ -24,10 +24,10 @@ function WelcomeScreen() {
       </View>
       <Image source={task} style={welcomeStyles.image}></Image>
       <Text style={welcomeStyles.title}>
-        Gerenciador de Tarefas{'\n'}guiado por To-Do List
+        Gerenciador de Tarefas{"\n"}guiado por To-Do List
       </Text>
       <Text style={welcomeStyles.description}>
-        Melhore sua produtividade com o nosso{'\n'}gerenciador de tarefas
+        Melhore sua produtividade com o nosso{"\n"}gerenciador de tarefas
       </Text>
       <TDButton
         text="Vamos lá"
