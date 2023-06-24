@@ -2,6 +2,7 @@ import { ImageBackground, Pressable } from "react-native";
 
 import bg from "../assets/bg-app-group.png";
 import taskStyles from "../task/task.style";
+import groupStyles from "./groups.style";
 
 function TaskGroupScreen({ navigation }: { navigation: any }) {
   return (
@@ -9,29 +10,29 @@ function TaskGroupScreen({ navigation }: { navigation: any }) {
       <ImageBackground
         source={bg}
         resizeMode="stretch"
-        style={taskStyles.container}
+        style={groupStyles.container}
       ></ImageBackground>
       <>
         <Pressable
-          style={taskStyles.editTask1}
+          style={groupStyles.editTask1}
           onPress={() => {
             navigation.navigate("EditTaskGroup");
           }}
         ></Pressable>
         <Pressable
-          style={taskStyles.editTask2}
+          style={groupStyles.editTask2}
           onPress={() => {
             navigation.navigate("EditTaskGroup");
           }}
         ></Pressable>
         <Pressable
-          style={taskStyles.editTask3}
+          style={groupStyles.editTask3}
           onPress={() => {
             navigation.navigate("EditTaskGroup");
           }}
         ></Pressable>
         <Pressable
-          style={taskStyles.groups}
+          style={groupStyles.groups}
           onPress={() => {
             navigation.navigate("AddTaskGroup");
           }}
