@@ -1,7 +1,7 @@
 message: Please cite this software using these metadata.
 title: Projeto Lembree 2.0 To-Do List
 authors:
-  - family-names: Carolina  Silva Mendes
+  - family-names: Carolina Silva Mendes
     given-names: Ana
   - family-names: Emanoel Coelho de Paula
     given-names: Arthur 
@@ -17,7 +17,7 @@ authors:
     given-names: Vitor
 keywords:
   - Gestão de Tarefas
-  - To-do list
+  - To list
   - Tarefas a fazer
 repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t7-lembree2-0
  version: 1.0.0
